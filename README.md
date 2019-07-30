@@ -1,6 +1,6 @@
 # Python Stock Screener
 
-This is a stock screener that harnesses the Finviz Module ([FinViz - Repo][https://github.com/mariostoev/finviz], [Finviz - PiPy][https://pypi.org/project/finviz/]), it then uses Beautiful Soup collect data and export it into a CSV file.
+This is a stock screener that harnesses the Finviz Module ([FinViz - Repo](https://github.com/mariostoev/finviz), [Finviz - PiPy](https://pypi.org/project/finviz/)), it then uses Beautiful Soup collect data and export it into a CSV file.
 
 ## Installation & Usage
 
