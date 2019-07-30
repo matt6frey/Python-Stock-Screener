@@ -29,5 +29,6 @@ i.e. `python yahooScreener.py --filename=stocks --dir=~/Desktop/Stocks/ --ext=tx
 
 ## Future Goals
 
-1. Assign existing script to backend API
-2. Create Ionic App that will use API and provide quick menu for screening, and Stock data push notifications and records.
+1. Modularize script.
+2. Assign existing script to backend API.
+3. Create Ionic App that will use API and provide quick menu for screening, and Stock data push notifications and records.
