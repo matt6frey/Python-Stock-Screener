@@ -26,3 +26,8 @@ i.e. `python yahooScreener.py --filename=stocks --dir=~/Desktop/Stocks/ --ext=tx
 - FinViz
 - BeautifulSoup
 - URLLIB
+
+## Future Goals
+
+1. Assign existing script to backend API
+2. Create Ionic App that will use API and provide quick menu for screening, and Stock data push notifications and records.
