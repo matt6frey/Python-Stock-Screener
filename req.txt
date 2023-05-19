@@ -50,7 +50,7 @@ et-xmlfile==1.0.1
 fastcache==1.0.2
 filelock==3.0.10
 finviz==1.2.3
-Flask==1.0.2
+Flask==2.2.5
 Flask-Cors==3.0.7
 future==0.17.1
 get==2019.4.13
