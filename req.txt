@@ -190,7 +190,7 @@ snowballstemmer==1.2.1
 sortedcollections==1.0.1
 sortedcontainers==2.1.0
 soupsieve==1.9.1
-Sphinx==1.8.2
+Sphinx==3.3.0
 sphinxcontrib-websupport==1.1.0
 spyder==3.3.2
 spyder-kernels==0.3.0
