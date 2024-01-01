@@ -137,7 +137,7 @@ pluggy==0.8.0
 ply==3.11
 post==2019.4.13
 prometheus-client==0.5.0
-prompt-toolkit==2.0.7
+prompt-toolkit==3.0.13
 psutil==5.4.8
 ptyprocess==0.6.0
 public==2019.4.13
