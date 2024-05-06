@@ -1,3 +1,4 @@
 beautifulsoup4==4.7.1
 finviz==1.2.3
 urllib3==1.26.18
+aiohttp>=3.9.4 # not directly required, pinned by Snyk to avoid a vulnerability
